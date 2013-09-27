@@ -10,13 +10,22 @@ Its actually hard to get the timing right in code that to actually play the game
 But once you get the hardcoded timings right the code can replicate the score for you as many times you like. :)
 
 
-##### Any suggestions on improving this both performance?
+* Any suggestions on improving this both performance?
 
-##### Any smart way to record 'hit timings' when you play as a human?
+* Any smart way to record 'hit timings' when you play as a human?
 
-##### Any way to make your (javascript) actions into a macro so that you can run it all over again?
+* Any way to make your (javascript) actions into a macro so that you can run it all over again?
 
 ## requirements
 
   * python2.7
   * Firefox
+
+## Usage
+
+    cd google15bday-doodlebot
+    python letsplay.py
+    # Watch the fun now. :)
+
+
+##### Feel free to create issues, and send pull requests ;)
