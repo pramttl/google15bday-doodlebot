@@ -21,11 +21,17 @@ But once you get the hardcoded timings right the code can replicate the score fo
   * python2.7
   * Firefox
 
+## Installation
+
+    git clone https://github.com/pramttl/google15bday-doodlebot
+    cd google15bday-doodlebot
+    pip install selenium==2.29.0
+
 ## Usage
 
-    cd google15bday-doodlebot
-    python letsplay.py
-    # Watch the fun now. :)
+    $ python letsplay.py
+
+Watch the fun now! :D
 
 
 ##### Feel free to create issues, and send pull requests ;)
